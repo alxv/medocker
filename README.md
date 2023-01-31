@@ -25,6 +25,7 @@ Handwritten documents must be digitised to improve storage, access, search, and 
 Because of the variability of handwriting, automatic text detection and segmentation can be error-prone and frequently require custom preprocessing.
 
 ## Deployment
+
 ### Run in Colab
 1. Download and open Medocker.ipynb in google colab.
 2. Set GPU session.
@@ -34,7 +35,8 @@ Because of the variability of handwriting, automatic text detection and segmenta
 ### Local implementation (GPU required)
 1. Clone this repository
 2. Run the Medcoker.ipynb file
-3. 
+
+
 ## How to adapt this project for your work
 ### You need make Four major modification
 1. Your template/unfilled form (image)
