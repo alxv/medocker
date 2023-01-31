@@ -24,12 +24,6 @@ Handwritten documents must be digitised to improve storage, access, search, and 
 
 Because of the variability of handwriting, automatic text detection and segmentation can be error-prone and frequently require custom preprocessing.
 
-
-## Demo
-
-### How to get XY cordinates for ROI
-![Gif_medoc](https://user-images.githubusercontent.com/9859576/215634929-a499507a-a46d-475b-8a34-92d2f330c8cc.gif)
-
 ## Deployment
 ### Run in Colab
 1. Download and open Medocker.ipynb in google colab.
@@ -38,12 +32,18 @@ Because of the variability of handwriting, automatic text detection and segmenta
 4. Follow the instructions metioned in Medocker.ipynb file
 
 ### Local implementation (GPU required)
-Clone this repository
-Run the Medcoker.ipynb file
-### How to adapt this project for your work
-1. Take your template/unfilled form (image)
+1. Clone this repository
+2. Run the Medcoker.ipynb file
+3. 
+## How to adapt this project for your work
+### You need make Four major modification
+1. Your template/unfilled form (image)
 2. Get cordinates for region of of interests in your template
-3. Update them in medocker.ipynb file and follow the instructions in it
+ ### How to get XY cordinates for ROI
+![Gif_medoc](https://user-images.githubusercontent.com/9859576/215634929-a499507a-a46d-475b-8a34-92d2f330c8cc.gif)
+
+3. Update the XY values in the (Setting region of interests) section of ipynb file.
+4. dataoutput.csv should contain names of ROI (header only)
 
 ## Hardware
 [Manual_git.pdf](https://github.com/alxv/medocker/files/10541584/Manual_git.pdf)
