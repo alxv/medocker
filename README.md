@@ -1,7 +1,7 @@
 
 #  MEDOCKER
 
-AI powered document digitizer
+AI powered document digitizer (Hand wriiten recognition)
 ![Medocker_Banner](https://user-images.githubusercontent.com/9859576/215635136-4625a7bf-1f9e-480c-893b-1528302cfe01.jpg)
 
 
@@ -20,9 +20,9 @@ Lauren Walker, Alexandar Vincent Paulraj
 
 ## Documentation
 
-Handwritten documents must be digitised to improve storage, access, search, and analysis. Prior to the deep learning revolution, there was no clear path to achieve such a goal in a scalable manner.
+Handwritten documents must be digitised to improve storage, access, search, and analysis. Prior to the deep learning revolution, there was no clear path to achieve such a goal in a scalable manner. Because of the variability of handwriting, automatic text detection and segmentation can be error-prone and frequently require custom preprocessing.
 
-Because of the variability of handwriting, automatic text detection and segmentation can be error-prone and frequently require custom preprocessing.
+Recent Deep Learning advances, such as the introduction of transformer architectures, have accelerated our progress in handwritten text recognition. Recognizing handwritten text is referred to as Intelligent Character Recognition (ICR) because the algorithms required to solve ICR require significantly more intelligence than solving generic OCR.
 
 ## Deployment
 
