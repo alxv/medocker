@@ -2,6 +2,7 @@
 #  MEDOCKER
 
 AI powered document digitizer
+![Medocker_Banner](https://user-images.githubusercontent.com/9859576/215635136-4625a7bf-1f9e-480c-893b-1528302cfe01.jpg)
 
 
 ## Authors
@@ -27,8 +28,8 @@ Because of the variability of handwriting, automatic text detection and segmenta
 ## Demo
 
 ### How to get XY cordinates for ROI
+![Gif_medoc](https://user-images.githubusercontent.com/9859576/215634929-a499507a-a46d-475b-8a34-92d2f330c8cc.gif)
 
-![Screenshot](Gif_medoc.gif)
 ## Deployment
 
 Download and open Medocker.ipynb in google colab.
@@ -45,6 +46,4 @@ Follow the instructions metioned in Medocker.ipynb file
 
 Microsoft -trocr-large-handwritten & Huggingface
 
-
-![Logo](Medocker_Color_logo.jpg)
 
