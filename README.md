@@ -31,19 +31,24 @@ Because of the variability of handwriting, automatic text detection and segmenta
 ![Gif_medoc](https://user-images.githubusercontent.com/9859576/215634929-a499507a-a46d-475b-8a34-92d2f330c8cc.gif)
 
 ## Deployment
+### Run in Colab
+1. Download and open Medocker.ipynb in google colab.
+2. Set GPU session.
+3. Downolad sample images and corresponding template from this repository
+4. Follow the instructions metioned in Medocker.ipynb file
 
-Download and open Medocker.ipynb in google colab.
-Set GPU session.
-Downolad sample images and corresponding template from this repository
-Follow the instructions metioned in Medocker.ipynb file
-
+### Local implementation (GPU required)
+Clone this repository
+Run the Medcoker.ipynb file
 ### How to adapt this project for your work
-
 1. Take your template/unfilled form (image)
 2. Get cordinates for region of of interests in your template
 3. Update them in medocker.ipynb file and follow the instructions in it
-## Acknowledgements
 
+## Hardware
+[Manual_git.pdf](https://github.com/alxv/medocker/files/10541584/Manual_git.pdf)
+
+## Acknowledgements
 Microsoft -trocr-large-handwritten & Huggingface
 
 
