@@ -1,7 +1,7 @@
 
 #  MEDOCKER
 
-AI powered document digitizer (Hand wriiten recognition)
+AI powered document digitizer (Hand written recognition)
 ![Medocker_Banner](https://user-images.githubusercontent.com/9859576/215635136-4625a7bf-1f9e-480c-893b-1528302cfe01.jpg)
 
 
